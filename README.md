@@ -5,5 +5,6 @@
 
 Creates a client console command that lists rules for each class via translations in SCP: SL via Exiled
 
+| |  |
 | --- | --- |
 | .rules | a command in the client console that lists all rules for your class. (able to be changed in translations) |
